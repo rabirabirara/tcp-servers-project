@@ -1,0 +1,457 @@
+Receive | None 52958 1615266819.3083427
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615266816.3063428
+Connect | Bernard 15229 1615266819.3123448
+Closed  | Bernard 15229 1615266819.3123448
+Receive | Jaquez 15226 1615271291.4421911
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615271288.4401958
+Connect | Bernard 15229 1615271291.4442012
+Closed  | Bernard 15229 1615271291.4442012
+Receive | Jaquez 15226 1615284812.1153076
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001000 kiwi.cs.ucla.edu +34.068930-118.445127 1615284809.1133056
+Connect | Bernard 15229 1615284812.1303058
+Closed  | Bernard 15229 1615284812.131308
+Receive | Jaquez 15226 1615285179.6525736
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615285176.650573
+Connect | Bernard 15229 1615285179.653574
+Closed  | Bernard 15229 1615285179.653574
+Receive | Jaquez 15226 1615285184.5754642
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615285181.5744717
+Connect | Bernard 15229 1615285184.577465
+Closed  | Bernard 15229 1615285184.577465
+Receive | Jaquez 15226 1615285190.2373888
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615285187.2363882
+Connect | Bernard 15229 1615285190.2383902
+Closed  | Bernard 15229 1615285190.2393894
+Receive | Jaquez 15226 1615285239.6197731
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001002 kiwi.cs.ucla.edu +34.068930-118.445127 1615285236.6177716
+Connect | Bernard 15229 1615285239.620773
+Closed  | Bernard 15229 1615285239.620773
+Receive | Jaquez 15226 1615285241.2705362
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615285238.2685487
+Connect | Bernard 15229 1615285241.2715383
+Closed  | Bernard 15229 1615285241.2715383
+Receive | Jaquez 15226 1615290425.383431
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001000 kiwi.cs.ucla.edu +34.068930-118.445127 1615290422.3814304
+Connect | Bernard 15229 1615290425.385434
+Closed  | Bernard 15229 1615290425.3864417
+Receive | Jaquez 15226 1615290426.573323
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001001 kiwi.cs.ucla.edu +34.068930-118.445127 1615290423.5703177
+Connect | Bernard 15229 1615290426.574326
+Closed  | Bernard 15229 1615290426.5753214
+Receive | Jaquez 15226 1615290429.3063483
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001350 kiwi.cs.ucla.edu +34.068930-118.445127 1615290426.3029773
+Connect | Bernard 15229 1615290429.3073559
+Closed  | Bernard 15229 1615290429.3083453
+Receive | Jaquez 15226 1615290430.2080173
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001002 kiwi.cs.ucla.edu +34.068930-118.445127 1615290427.2059767
+Connect | Bernard 15229 1615290430.2099795
+Closed  | Bernard 15229 1615290430.2099795
+In  <-  | IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1615290494.0236235
+Connect | Riley 15225 1615290497.025613
+Closed  | Riley 15225 1615290497.025613
+Connect | Bernard 15229 1615290497.0266144
+Closed  | Bernard 15229 1615290497.0266144
+Out  -> | AT Jaquez +3.000989 kiwi.cs.ucla.edu +34.068930-118.445127 1615290494.0236235
+Starting: 1615331269.1534827
+Receive | Jaquez 15226 1615331295.936555
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000997 kiwi.cs.ucla.edu +34.068930-118.445127 1615331292.9345617
+Connect | Bernard 15229 1615331295.937557
+Closed  | Bernard 15229 1615331295.937557
+In  <-  | IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1615331300.2610626
+Connect | Riley 15225 1615331303.2620306
+Closed  | Riley 15225 1615331303.2620306
+Connect | Bernard 15229 1615331303.2640305
+Closed  | Bernard 15229 1615331303.2640305
+Out  -> | AT Jaquez +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615331300.2610626
+Receive | Jaquez 15226 1615331305.0383217
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang=Riley | AT Juzang +3.000961 kiwi.cs.ucla.edu +34.068930-118.445127 1615331302.0353606
+Receive | Jaquez 15226 1615331305.0403216
+Receive | Jaquez 15226 1615331306.9892943
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang | AT Campbell +3.001003 kiwi.cs.ucla.edu +34.068930-118.445127 1615331303.9842956
+Receive | Jaquez 15226 1615331306.9903011
+Connect | Riley 15225 1615331306.9912963
+Closed  | Riley 15225 1615331306.9912963
+Receive | Jaquez 15226 1615331309.3912146
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang | AT Bernard +3.001000 kiwi.cs.ucla.edu +34.068930-118.445127 1615331306.3892176
+Connect | Riley 15225 1615331309.3912146
+Closed  | Riley 15225 1615331309.3912146
+Shutdown: 1615331345.369637
+Starting: 1615345334.6954167
+Receive | Jaquez 15226 1615345430.3584266
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000999 kiwi.cs.ucla.edu +34.068930-118.445127 1615345427.3564236
+Failed  | Bernard 15229 1615345432.398423
+Receive | Jaquez 15226 1615345770.7823477
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615345767.7803352
+Failed  | Bernard 15229 1615345772.8263984
+Receive | Jaquez 15226 1615345816.208445
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615345813.2074466
+Failed  | Bernard 15229 1615345818.247444
+Receive | Jaquez 15226 1615345933.8994281
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001034 kiwi.cs.ucla.edu +34.068930-118.445127 1615345930.8973894
+Failed  | Bernard 15229 1615345935.949399
+Receive | Jaquez 15226 1615346060.5943286
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001039 kiwi.cs.ucla.edu +34.068930-118.445127 1615346057.5923266
+Failed  | Bernard 15229 1615346062.6323323
+Receive | Jaquez 15226 1615346181.663591
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001001 kiwi.cs.ucla.edu +34.068930-118.445127 1615346178.6615942
+Failed  | Bernard 15229 1615346183.687524
+Receive | Jaquez 15226 1615346240.0674088
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615346237.06641
+Failed  | Bernard 15229 1615346242.1134086
+Receive | Jaquez 15226 1615349785.6424086
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001003 kiwi.cs.ucla.edu +34.068930-118.445127 1615349782.6274002
+Failed  | Bernard 15229 1615349787.6614027
+Receive | Jaquez 15226 1615349803.9863224
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615349800.9853237
+Failed  | Bernard 15229 1615349805.9983118
+Receive | Jaquez 15226 1615349814.4064667
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615349811.4054666
+Failed  | Bernard 15229 1615349816.444468
+Receive | Jaquez 15226 1615350077.1352978
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615350074.1342971
+Failed  | Bernard 15229 1615350079.1703477
+Receive | Jaquez 15226 1615350131.7304132
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615350128.7284143
+Failed  | Bernard 15229 1615350133.7514503
+Receive | Jaquez 15226 1615350363.5881886
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615350360.5861843
+Failed  | Bernard 15229 1615350365.6181347
+Receive | Jaquez 15226 1615350383.9193504
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001002 kiwi.cs.ucla.edu +34.068930-118.445127 1615350380.918348
+Failed  | Bernard 15229 1615350385.9705448
+Receive | Jaquez 15226 1615350455.863675
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001001 kiwi.cs.ucla.edu +34.068930-118.445127 1615350452.8616767
+Failed  | Bernard 15229 1615350457.9021497
+Shutdown: 1615350822.6003885
+Starting: 1615350825.2033885
+Receive | Jaquez 15226 1615350830.279408
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000998 kiwi.cs.ucla.edu +34.068930-118.445127 1615350827.2774029
+Connect | Bernard 15229 1615350830.2804062
+Closed  | Bernard 15229 1615350830.2814076
+Receive | Jaquez 15226 1615350870.065797
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001030 kiwi.cs.ucla.edu +34.068930-118.445127 1615350867.0637665
+Connect | Bernard 15229 1615350870.0668037
+Closed  | Bernard 15229 1615350870.0668037
+Receive | Jaquez 15226 1615350994.5077965
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615350991.5068
+Connect | Bernard 15229 1615350994.5087783
+Closed  | Bernard 15229 1615350994.5087783
+Receive | Jaquez 15226 1615351313.0185263
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001002 kiwi.cs.ucla.edu +34.068930-118.445127 1615351310.0165243
+Connect | Bernard 15229 1615351313.0195227
+Closed  | Bernard 15229 1615351313.0195227
+In  <-  | WHATSAT kiwi.cs.ucla.edu 10 6
+Out  -> | AT Riley +3.001002 kiwi.cs.ucla.edu +34.068930-118.445127 1615351310.0165243{
+    "html_attributions": [],
+    "next_page_token": "ATtYBwLAAn8dwNDBZ7p3IlJU-d0Xy5UYVs6C30Bh-rK64RWpjXPyOVwW2xYQyAgqp_vFOkwVr5op8AnPc7pyHBd0o57AZYOl2QU9Ba36kbhZ2q6kKUX-guqziwQW6i9Vfa9ozTFAP5zcDe5TnwmACq_gRv6tmj45dveKQuhUVbJ7S-ufFCoEgdgvqNABFIN6R7-rw_MguVN_OhoR_miHrSFWO8OdRMerCEloKbmXG2Yh-XcMcXCbvH6CzPJt8gocwapc3huw2bCKJWxqT3CUZMd0tEEois24dXFXFF3rcKSpPm-gm4nD1KTrAjEwWDthl3FGg27n75fgzDe0vFqM3x5P0iFTZdKmUP9Yw1HT_p_cH6A21hbUKnKCppg_4Eu5D6CvLf9_UpHMas3WiWUA8jDSKEsAopgyrc1bgU9_aH3MYjCw",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.33730608759191,
+                        "lng": -118.155289077463
+                    },
+                    "southwest": {
+                        "lat": 33.70365193147634,
+                        "lng": -118.6681759484859
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 1350,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102960872676267512930\">Sharad Chauhan</a>"
+                    ],
+                    "photo_reference": "ATtYBwKSa6iyvGEuBeoKuYW9ZtudlTbvmEOJdfrSPmMS8mxGTfqJndC21-QNez7s2AMKCq3JcME9cobjsJI-UjIQ6CksfU3BsHnHewohf5n_THTrUlrEdFCTCXWmyWLg6XLI9Z_sJ8cz3MM6eYhDybtV2KdLg4deQZGM9abI-a7D_2hv7Vwq",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.06320729999999,
+                    "lng": -118.4416734
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0645093802915,
+                        "lng": -118.4401781197085
+                    },
+                    "southwest": {
+                        "lat": 34.0618114197085,
+                        "lng": -118.4428760802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "name": "Hilgard House Hotel & Suites",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114830933268330273474\">Katsushi Okuyama</a>"
+                    ],
+                    "photo_reference": "ATtYBwKpFXFQXxqtljz6J20b083Eh3iz98NBFkOBGN3jk4n26bud8zAeLaqj0vm_kP9oG--Q3dYQtJHUJ7g1Ye1Tj0lO7lopXypXgT3XfK3sEPb0xFfIuyvU95ycsaM-ztQPvb8PMaMh5QcvBwgjYkQ_SGajx9IONDKxhOt3Q3djRF1RwdmF",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ06ecwoC8woARVyPlQNVzetI",
+            "plus_code": {
+                "compound_code": "3H75+78 Los Angeles, CA, USA",
+                "global_code": "85633H75+78"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ06ecwoC8woARVyPlQNVzetI",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169,
+            "vicinity": "927 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0632746,
+                    "lng": -118.4409504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0646108802915,
+                        "lng": -118.4398087197085
+                    },
+                    "southwest": {
+                        "lat": 34.0619129197085,
+                        "lng": -118.4425066802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "name": "W Los Angeles - West Beverly Hills",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112226443518685790919\">W Los Angeles - West Beverly Hills</a>"
+                    ],
+                    "photo_reference": "ATtYBwJ3-L7x_v91a4lYdXnN_vA2zEwhouAsGlNifwY2krLjE5MJw3gdP9OPTGk95coDdy1-zuLMRV6ZC6XTNPwwFZXksThImBeG14nA0l5d8UXXcYHabD-2eRZBSdcAFEkCcZTMTr6b99EHomtJOFT_TuG4V_wnZ7lufi8_dfMjbEvpyf9s",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+            "plus_code": {
+                "compound_code": "3H75+8J Los Angeles, CA, USA",
+                "global_code": "85633H75+8J"
+            },
+            "rating": 4.2,
+            "reference": "ChIJffYelYC8woARkChY4cQOzUM",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1073,
+            "vicinity": "930 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0606338,
+                    "lng": -118.4429579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0619099802915,
+                        "lng": -118.4416496697085
+                    },
+                    "southwest": {
+                        "lat": 34.0592120197085,
+                        "lng": -118.4443476302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "name": "Royal Palace Westwood Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116737278302879556875\">Merrill Smith</a>"
+                    ],
+                    "photo_reference": "ATtYBwLLGHwxNjoc1gV_-KZ161XJBqX8JqoOmiFy9-xZnst8jE9E34Yl8l9gKZHVxnSZ4baccgGgT2mkqSNwTHMypAyM3RBJpioTWs3rer-X_4VWwJUMuoZR-QimVSRuBW_EGpIce9EOlQm-xl_M_4Vq64DvKYhwlof09g041HpoCJkP8Nop",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+            "plus_code": {
+                "compound_code": "3H64+7R Los Angeles, CA, USA",
+                "global_code": "85633H64+7R"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ36i1toG8woARHcjs6P2eCkU",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 220,
+            "vicinity": "1052 Tiverton Avenue, Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0677194,
+                    "lng": -118.4260111
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.06895858029149,
+                        "lng": -118.4244877697085
+                    },
+                    "southwest": {
+                        "lat": 34.0662606197085,
+                        "lng": -118.4271857302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "name": "Beverly Hills Plaza Hotel & Spa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110208481895485602287\">G Any</a>"
+                    ],
+                    "photo_reference": "ATtYBwJwi5ulT5mRlfBJn1I9HHCzwbJC_BKAZm_g26OyEpcDDZmC1lmYxGjbrapf3s6NCpFX-kvKmpumIl7qDz4RG42BIYPaX6AFoEtl4X5HE3rDykVZZ5gOjRMCbQAo7V5Q1WccQQ5V1f2XhQ3cBJYt7kR8fyCx9NiaYUx-8f7ba9KAFlxo",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+            "plus_code": {
+                "compound_code": "3H9F+3H Los Angeles, CA, USA",
+                "global_code": "85633H9F+3H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 370,
+            "vicinity": "10300 Wilshire Boulevard, Los Angeles"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.068921,
+                    "lng": -118.4451811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0828575,
+                        "lng": -118.42990995
+                    },
+                    "southwest": {
+                        "lat": 34.0575047,
+                        "lng": -118.46313815
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "name": "University of California, Los Angeles",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102441856898186297335\">Eod</a>"
+                    ],
+                    "photo_reference": "ATtYBwK79TudeM3IXqmy2Utdz2k7qiiy75uF5lETUhtwMYe6mOBnwZdfCPbZu-iv3m58T9t8pWDpWw-8gtFaOdOcF1sE2NneIHmsMQFq0rtqe7mbS95KC2aTgKYnEeDYZpm-L2LQWQRsZE-AMVPH9FVv1kMj9Y8eXLKIJ3-6Npj6bINQh9rj",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "plus_code": {
+                "compound_code": "3H93+HW Los Angeles, CA, USA",
+                "global_code": "85633H93+HW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZQ9c8IW8woARN0gTXFiTqSU",
+            "scope": "GOOGLE",
+            "types": [
+                "university",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1858,
+            "vicinity": "Los Angeles"
+        }
+    ],
+    "status": "OK"
+}
+Queried | https://maps.googleapis.com/maps/api/place/nearbysearch/json?key=AIzaSyDpBRzIkQYtP7ef-HfooggYnn7uQK-16Jg&location=+34.06893,-118.445127&radius=10000
+Shutdown: 1615351757.3848023
+Starting: 1615375809.0647733
+In  <-  | IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1615375828.242897
+Connect | Riley 15225 1615375831.2438917
+Failed  | Riley 15225 1615375831.2438917
+Connect | Bernard 15229 1615375831.2438917
+Failed  | Bernard 15229 1615375831.2438917
+Out  -> | AT Jaquez +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615375828.242897
+Starting: 1615377833.2293289
+Receive | Jaquez 15226 1615377848.6295927
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615377845.6275926
+Connect | Bernard 15229 1615377848.6305938
+Closed  | Bernard 15229 1615377848.6305938
+Receive | Jaquez 15226 1615377921.0160956
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615377918.0140922
+Connect | Bernard 15229 1615377921.0160956
+Closed  | Bernard 15229 1615377921.0160956
+Receive | Jaquez 15226 1615377952.7430418
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615377949.7410784
+Connect | Bernard 15229 1615377952.7440379
+Closed  | Bernard 15229 1615377952.7440379
+Starting: 1615417310.3827474
+Receive | Jaquez 15226 1615417334.2188354
+In  <-  | PROPAGATE Jaquez=Juzang=Riley | AT Riley +3.001033 kiwi.cs.ucla.edu +34.068930-118.445127 1615417331.2168417
+Connect | Bernard 15229 1615417334.2208374
+Closed  | Bernard 15229 1615417334.2208374

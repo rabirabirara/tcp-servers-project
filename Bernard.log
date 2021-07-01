@@ -1,0 +1,147 @@
+Receive | None 52960 1615266819.313345
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615266816.3063428
+Connect | Campbell 15228 1615266819.3183434
+Closed  | Campbell 15228 1615266819.3193572
+Receive | None 52962 1615266819.3203602
+Receive | Bernard 15229 1615271291.4451885
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615271288.4401958
+Connect | Campbell 15228 1615271291.4671898
+Closed  | Campbell 15228 1615271291.468191
+Receive | Bernard 15229 1615271291.468191
+Receive | Bernard 15229 1615284812.131308
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.001000 kiwi.cs.ucla.edu +34.068930-118.445127 1615284809.1133056
+Connect | Campbell 15228 1615284812.133308
+Closed  | Campbell 15228 1615284812.133308
+Receive | Bernard 15229 1615284812.133308
+Receive | Bernard 15229 1615285179.6555867
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615285176.650573
+Connect | Campbell 15228 1615285179.6575758
+Closed  | Campbell 15228 1615285179.6585903
+Receive | Bernard 15229 1615285179.6585903
+Receive | Bernard 15229 1615285184.5804641
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615285181.5744717
+Connect | Campbell 15228 1615285184.5844636
+Closed  | Campbell 15228 1615285184.5844636
+Receive | Bernard 15229 1615285184.5844636
+Receive | Bernard 15229 1615285190.2393894
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615285187.2363882
+Connect | Campbell 15228 1615285190.2403917
+Closed  | Campbell 15228 1615285190.2413921
+Receive | Bernard 15229 1615285190.2413921
+Receive | Bernard 15229 1615285239.6217759
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.001002 kiwi.cs.ucla.edu +34.068930-118.445127 1615285236.6177716
+Connect | Campbell 15228 1615285239.624775
+Closed  | Campbell 15228 1615285239.624775
+Receive | Bernard 15229 1615285239.62579
+Receive | Bernard 15229 1615285241.2735448
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615285238.2685487
+Connect | Campbell 15228 1615285241.2755425
+Closed  | Campbell 15228 1615285241.2765396
+Receive | Bernard 15229 1615285241.277538
+Receive | Bernard 15229 1615290425.3874323
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.001000 kiwi.cs.ucla.edu +34.068930-118.445127 1615290422.3814304
+Connect | Campbell 15228 1615290425.3897765
+Closed  | Campbell 15228 1615290425.3907754
+Receive | Bernard 15229 1615290425.3917813
+Receive | Bernard 15229 1615290426.5753214
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.001001 kiwi.cs.ucla.edu +34.068930-118.445127 1615290423.5703177
+Connect | Campbell 15228 1615290426.578339
+Closed  | Campbell 15228 1615290426.5793328
+Receive | Bernard 15229 1615290426.5813203
+Receive | Bernard 15229 1615290429.3093555
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.001350 kiwi.cs.ucla.edu +34.068930-118.445127 1615290426.3029773
+Connect | Campbell 15228 1615290429.3123689
+Closed  | Campbell 15228 1615290429.3123689
+Receive | Bernard 15229 1615290429.3143494
+Receive | Bernard 15229 1615290430.2119806
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.001002 kiwi.cs.ucla.edu +34.068930-118.445127 1615290427.2059767
+Connect | Campbell 15228 1615290430.21399
+Closed  | Campbell 15228 1615290430.2149818
+Receive | Bernard 15229 1615290430.2149818
+Receive | Bernard 15229 1615290497.0276117
+In  <-  | PROPAGATE Bernard=Jaquez=Riley | AT Jaquez +3.000989 kiwi.cs.ucla.edu +34.068930-118.445127 1615290494.0236235
+Connect | Juzang 15227 1615290497.0286138
+Closed  | Juzang 15227 1615290497.029614
+Connect | Campbell 15228 1615290497.0306363
+Closed  | Campbell 15228 1615290497.0306363
+Starting: 1615331293.2035077
+Receive | Bernard 15229 1615331295.937557
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000997 kiwi.cs.ucla.edu +34.068930-118.445127 1615331292.9345617
+Connect | Campbell 15228 1615331295.9415727
+Closed  | Campbell 15228 1615331295.9415727
+Receive | Bernard 15229 1615331295.9425569
+Receive | Bernard 15229 1615331303.2640305
+In  <-  | PROPAGATE Bernard=Jaquez=Riley | AT Jaquez +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615331300.2610626
+Connect | Juzang 15227 1615331303.2650244
+Closed  | Juzang 15227 1615331303.2650244
+Connect | Campbell 15228 1615331303.2660258
+Closed  | Campbell 15228 1615331303.2660258
+Receive | Bernard 15229 1615331305.0383217
+In  <-  | PROPAGATE Bernard=Campbell=Juzang=Riley | AT Juzang +3.000961 kiwi.cs.ucla.edu +34.068930-118.445127 1615331302.0353606
+Connect | Jaquez 15226 1615331305.0393212
+Closed  | Jaquez 15226 1615331305.0393212
+Receive | Bernard 15229 1615331306.986299
+In  <-  | PROPAGATE Bernard=Campbell=Juzang | AT Campbell +3.001003 kiwi.cs.ucla.edu +34.068930-118.445127 1615331303.9842956
+Connect | Jaquez 15226 1615331306.9892943
+Closed  | Jaquez 15226 1615331306.9892943
+In  <-  | IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1615331306.3892176
+Connect | Jaquez 15226 1615331309.3902173
+Closed  | Jaquez 15226 1615331309.3902173
+Connect | Juzang 15227 1615331309.3912146
+Closed  | Juzang 15227 1615331309.3912146
+Connect | Campbell 15228 1615331309.3912146
+Closed  | Campbell 15228 1615331309.3922179
+Out  -> | AT Bernard +3.001000 kiwi.cs.ucla.edu +34.068930-118.445127 1615331306.3892176
+Shutdown: 1615331346.6559157
+Starting: 1615350827.9279604
+Receive | Bernard 15229 1615350830.2824063
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000998 kiwi.cs.ucla.edu +34.068930-118.445127 1615350827.2774029
+Connect | Campbell 15228 1615350830.2844045
+Closed  | Campbell 15228 1615350830.2844045
+Receive | Bernard 15229 1615350830.2844045
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang=Riley | AT Riley +3.000998 kiwi.cs.ucla.edu +34.068930-118.445127 1615350827.2774029
+Receive | Bernard 15229 1615350870.0668037
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.001030 kiwi.cs.ucla.edu +34.068930-118.445127 1615350867.0637665
+Failed  | Campbell 15228 1615350872.0944347
+Receive | Bernard 15229 1615350872.0954394
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang=Riley | AT Riley +3.001030 kiwi.cs.ucla.edu +34.068930-118.445127 1615350867.0637665
+Receive | Bernard 15229 1615350994.5087783
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615350991.5068
+Connect | Campbell 15228 1615350994.5097857
+Closed  | Campbell 15228 1615350994.5107794
+Receive | Bernard 15229 1615350994.5117815
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615350991.5068
+Receive | Bernard 15229 1615351313.0205233
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.001002 kiwi.cs.ucla.edu +34.068930-118.445127 1615351310.0165243
+Connect | Campbell 15228 1615351313.021528
+Closed  | Campbell 15228 1615351313.021528
+Receive | Bernard 15229 1615351313.0225232
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang=Riley | AT Riley +3.001002 kiwi.cs.ucla.edu +34.068930-118.445127 1615351310.0165243
+Shutdown: 1615351758.9358094
+Starting: 1615375821.7804508
+Starting: 1615377844.931646
+Receive | Bernard 15229 1615377848.6305938
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615377845.6275926
+Receive | Bernard 15229 1615377848.6325958
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615377845.6275926
+Connect | Campbell 15228 1615377848.6325958
+Closed  | Campbell 15228 1615377848.6325958
+Receive | Bernard 15229 1615377921.0170953
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615377918.0140922
+Receive | Bernard 15229 1615377921.0180929
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615377918.0140922
+Connect | Campbell 15228 1615377921.0200903
+Closed  | Campbell 15228 1615377921.0200903
+Receive | Bernard 15229 1615377952.7440379
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615377949.7410784
+Receive | Bernard 15229 1615377952.7460368
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang=Riley | AT Riley +3.000000 kiwi.cs.ucla.edu +34.068930-118.445127 1615377949.7410784
+Connect | Campbell 15228 1615377952.7460368
+Closed  | Campbell 15228 1615377952.7460368
+Starting: 1615417323.2514884
+Receive | Bernard 15229 1615417334.2208374
+In  <-  | PROPAGATE Bernard=Jaquez=Juzang=Riley | AT Riley +3.001033 kiwi.cs.ucla.edu +34.068930-118.445127 1615417331.2168417
+Receive | Bernard 15229 1615417334.2228367
+In  <-  | PROPAGATE Bernard=Campbell=Jaquez=Juzang=Riley | AT Riley +3.001033 kiwi.cs.ucla.edu +34.068930-118.445127 1615417331.2168417
+Connect | Campbell 15228 1615417334.2228367
+Closed  | Campbell 15228 1615417334.2228367
