@@ -1,3 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
- \PYG{k+kn}{import} \PYG{n+nn}{asyncio} \PYGZbs{}\PYG{n}{par} \PYG{k}{async} \PYG{k}{def} \PYG{n+nf}{main}\PYG{p}{():} \PYG{k}{await} \PYG{n}{asyncio}\PYG{o}{.}\PYG{n}{sleep}\PYG{p}{(}\PYG{l+m+mi}{0}\PYG{p}{)} \PYG{k}{return} \PYG{l+m+mi}{42} \PYGZbs{}\PYG{n}{par} \PYG{n}{asyncio}\PYG{o}{.}\PYG{n}{run}\PYG{p}{(}\PYG{n}{main}\PYG{p}{())} 
-\end{Verbatim}

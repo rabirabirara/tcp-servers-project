@@ -1,3 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-\PYG{n}{asyncio}\PYG{o}{.}\PYG{n}{run}\PYG{p}{()}
-\end{Verbatim}
